@@ -1,0 +1,57 @@
+/* Basic Reset */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #ffffff;
+  color: #333;
+}
+
+/* Container */
+#root {
+  max-width: 900px;
+  margin: auto;
+  text-align: center;
+  padding: 20px;
+  border: 1px solid #ddd;
+}
+
+/* Headings */
+h1 {
+  font-size: 40px;
+  color: #000;
+  margin: 20px 0;
+}
+
+h2 {
+  font-size: 24px;
+  color: #444;
+  margin-bottom: 10px;
+}
+
+/* Paragraph */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* Code block */
+code {
+  background-color: #f4f4f4;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+/* Simple button style */
+button {
+  background-color: purple;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: darkviolet;
+}
